@@ -1,2 +1,1 @@
-# pydolly2.cpp
-# pydolly2.cpp
+# Running dolly2 on cpu
